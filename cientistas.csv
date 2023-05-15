@@ -1,0 +1,128 @@
+,CPF,nome,code_sexo,sexo,code_regi,regiao
+2,546.301.879-01,Miguel Cardoso,2,Masculino,3,Norte
+3,270.691.548-01,Rafael Souza,2,Masculino,1,Centro-Oeste
+4,935.741.260-34,Danilo Campos,2,Masculino,1,Centro-Oeste
+5,126.390.758-02,Carolina Pinto,1,Feminino,5,Sul
+6,630.142.958-33,Larissa Vieira,1,Feminino,3,Norte
+7,972.386.450-92,Emanuel Novaes,2,Masculino,5,Sul
+8,365.891.720-21,Nathan Mendes,2,Masculino,3,Norte
+10,621.985.037-86,Bianca da Mata,1,Feminino,5,Sul
+13,516.327.049-43,Alexia da Conceição,1,Feminino,1,Centro-Oeste
+14,610.938.452-60,Letícia Nascimento,1,Feminino,5,Sul
+16,542.309.167-52,Caroline da Conceição,1,Feminino,3,Norte
+18,360.985.421-98,Marcelo Costela,2,Masculino,5,Sul
+20,071.683.542-80,Emanuel Cardoso,2,Masculino,2,Nordeste
+23,217.065.893-95,Benjamin Costela,2,Masculino,3,Norte
+24,704.918.362-87,Pedro da Mata,2,Masculino,2,Nordeste
+26,138.072.695-68,Isabel Aragão,1,Feminino,3,Norte
+30,609.537.824-92,Juan Fernandes,2,Masculino,1,Centro-Oeste
+31,753.840.219-50,Eduarda Alves,1,Feminino,3,Norte
+32,479.516.830-00,Juliana Silveira,1,Feminino,2,Nordeste
+33,231.568.947-37,Giovanna Araújo,1,Feminino,1,Centro-Oeste
+34,935.826.147-19,Julia da Rosa,1,Feminino,3,Norte
+36,346.758.012-26,Luigi da Luz,2,Masculino,1,Centro-Oeste
+39,451.609.827-01,Lorena Caldeira,1,Feminino,5,Sul
+40,429.763.508-92,Sarah da Cruz,1,Feminino,2,Nordeste
+41,817.936.024-50,Leandro Moreira,2,Masculino,5,Sul
+42,258.174.036-17,Melissa Nunes,1,Feminino,3,Norte
+43,403.217.985-97,Diego Mendes,2,Masculino,5,Sul
+44,725.369.401-52,Leonardo da Cunha,2,Masculino,2,Nordeste
+46,571.890.324-79,Esther Caldeira,1,Feminino,2,Nordeste
+48,413.879.265-19,Milena Caldeira,1,Feminino,1,Centro-Oeste
+50,472.103.685-07,Luigi Vieira,2,Masculino,3,Norte
+51,573.429.601-52,Bianca Peixoto,1,Feminino,4,Sudeste
+53,306.784.259-65,Ana Rezende,1,Feminino,1,Centro-Oeste
+55,587.409.362-10,Vicente Fernandes,2,Masculino,4,Sudeste
+56,580.317.462-90,Isabel Jesus,1,Feminino,3,Norte
+57,896.730.521-40,Alice Rezende,1,Feminino,5,Sul
+59,791.453.280-05,Vitória Duarte,1,Feminino,5,Sul
+60,598.371.026-59,Raul Costa,2,Masculino,5,Sul
+61,815.423.096-89,Leonardo Dias,2,Masculino,3,Norte
+65,632.150.489-06,Letícia Cunha,1,Feminino,1,Centro-Oeste
+67,691.725.034-16,Agatha Novaes,1,Feminino,3,Norte
+69,273.409.518-14,Marcela Jesus,1,Feminino,2,Nordeste
+70,764.310.259-70,Bianca Moreira,1,Feminino,3,Norte
+73,375.246.189-64,Melissa Santos,1,Feminino,1,Centro-Oeste
+75,950.631.827-12,Rodrigo Ribeiro,2,Masculino,1,Centro-Oeste
+76,697.180.342-69,Lavínia Ramos,1,Feminino,4,Sudeste
+77,562.710.489-94,Fernando Almeida,2,Masculino,1,Centro-Oeste
+78,841.923.067-78,Amanda Cunha,1,Feminino,4,Sudeste
+83,180.967.532-40,Heitor Souza,2,Masculino,2,Nordeste
+85,617.593.042-80,Marcela Santos,1,Feminino,5,Sul
+86,658.730.214-90,Cecília Oliveira,1,Feminino,2,Nordeste
+87,796.502.381-40,Renan Fogaça,1,Feminino,5,Sul
+88,495.017.823-79,Emanuella da Cunha,1,Feminino,5,Sul
+89,486.932.751-19,Maysa da Cruz,1,Feminino,2,Nordeste
+90,549.072.318-14,Isabella Souza,1,Feminino,2,Nordeste
+91,736.980.521-21,Isis Ferreira,1,Feminino,3,Norte
+92,057.162.493-61,Leandro Sales,2,Masculino,2,Nordeste
+93,297.140.658-01,Emanuella Moura,1,Feminino,4,Sudeste
+94,791.035.862-86,Esther Alves,1,Feminino,2,Nordeste
+96,109.358.264-24,Gustavo Cardoso,2,Masculino,3,Norte
+97,946.572.380-00,Sophie Pires,1,Feminino,2,Nordeste
+99,246.719.538-46,Vicente Fernandes,2,Masculino,2,Nordeste
+100,260.518.493-51,Henrique Novaes,2,Masculino,1,Centro-Oeste
+101,017.845.629-20,Igor Carvalho,2,Masculino,1,Centro-Oeste
+105,198.465.327-09,Lucas Santos,2,Masculino,5,Sul
+107,897.154.230-60,Camila Campos,1,Feminino,5,Sul
+108,680.293.471-03,Danilo Sales,2,Masculino,3,Norte
+109,893.605.721-95,Sofia Gomes,1,Feminino,5,Sul
+110,396.048.527-10,Lucas Nunes,2,Masculino,1,Centro-Oeste
+112,695.127.034-16,Elisa Caldeira,1,Feminino,2,Nordeste
+113,705.289.346-00,Lívia Monteiro,1,Feminino,1,Centro-Oeste
+114,809.341.526-24,Rebeca Caldeira,1,Feminino,5,Sul
+115,478.926.513-73,Nathan Gomes,2,Masculino,3,Norte
+116,726.801.935-12,Evelyn Fernandes,1,Feminino,4,Sudeste
+118,276.518.309-03,Giovanna Lopes,1,Feminino,3,Norte
+120,582.917.340-97,Alice Santos,1,Feminino,2,Nordeste
+121,019.675.248-58,Yasmin Sales,1,Feminino,3,Norte
+123,564.970.813-48,Caio Vieira,2,Masculino,2,Nordeste
+124,385.714.690-75,Marcela Novaes,1,Feminino,5,Sul
+125,834.761.059-20,Rodrigo Carvalho,2,Masculino,3,Norte
+126,364.805.971-84,Sophie Porto,1,Feminino,2,Nordeste
+127,598.406.312-33,Fernanda Correia,1,Feminino,5,Sul
+129,940.261.537-70,Rodrigo Ramos,2,Masculino,3,Norte
+130,470.268.351-90,Juliana Sales,1,Feminino,1,Centro-Oeste
+132,564.109.378-57,Raquel da Paz,1,Feminino,5,Sul
+133,872.013.469-03,Clara Souza,1,Feminino,3,Norte
+135,918.630.725-86,Lavínia Castro,1,Feminino,5,Sul
+138,518.907.236-30,Enrico Sales,2,Masculino,3,Norte
+139,820.974.536-00,Rebeca da Luz,1,Feminino,5,Sul
+140,630.849.715-01,Milena Nunes,1,Feminino,5,Sul
+141,917.324.856-82,Fernanda Nunes,1,Feminino,3,Norte
+143,042.863.917-87,Nicolas Sales,2,Masculino,2,Nordeste
+144,452.037.891-50,Caroline Campos,1,Feminino,2,Nordeste
+147,954.703.186-48,Igor Vieira,2,Masculino,5,Sul
+150,918.562.370-95,Emanuel Mendes,2,Masculino,3,Norte
+152,159.760.234-52,Luna Santos,1,Feminino,5,Sul
+154,760.198.342-04,Isabella Carvalho,1,Feminino,5,Sul
+160,158.749.320-97,Bernardo Lima,2,Masculino,5,Sul
+161,762.135.094-61,Daniel Viana,2,Masculino,5,Sul
+162,210.839.574-14,Milena Fernandes,1,Feminino,4,Sudeste
+164,436.051.897-84,Isabel Monteiro,1,Feminino,3,Norte
+165,203.496.781-03,Raul Sales,2,Masculino,5,Sul
+166,751.032.986-86,Luigi Rezende,2,Masculino,4,Sudeste
+167,831.927.546-64,Samuel da Cunha,2,Masculino,4,Sudeste
+168,735.480.126-71,Pietro Carvalho,2,Masculino,3,Norte
+169,473.629.158-37,Marina Freitas,1,Feminino,3,Norte
+172,826.793.501-03,Gabriela Lima,1,Feminino,3,Norte
+173,531.048.697-66,Mirella da Paz,1,Feminino,4,Sudeste
+174,052.946.371-70,Luiza da Conceição,1,Feminino,5,Sul
+175,574.698.210-58,Ana Porto,1,Feminino,1,Centro-Oeste
+176,438.059.176-00,Luana Rocha,1,Feminino,2,Nordeste
+177,139.285.670-12,Diogo Silveira,2,Masculino,2,Nordeste
+178,045.618.792-85,Isabel Monteiro,1,Feminino,4,Sudeste
+180,042.986.153-24,Evelyn da Mata,1,Feminino,5,Sul
+181,815.493.762-09,Raquel Rezende,1,Feminino,5,Sul
+184,207.985.413-50,Emanuel Teixeira,2,Masculino,5,Sul
+185,293.417.680-04,Anthony Rezende,2,Masculino,4,Sudeste
+186,927.086.435-92,Noah Farias,2,Masculino,1,Centro-Oeste
+187,528.147.036-17,Benjamin Dias,2,Masculino,1,Centro-Oeste
+188,538.926.071-68,Esther Gomes,1,Feminino,3,Norte
+189,528.364.970-92,Alexandre Gomes,2,Masculino,5,Sul
+190,672.305.189-03,Eduardo Ribeiro,2,Masculino,2,Nordeste
+192,247.016.983-69,Augusto Monteiro,2,Masculino,1,Centro-Oeste
+193,492.601.587-02,Miguel da Cunha,2,Masculino,4,Sudeste
+194,643.071.852-26,Enrico Correia,2,Masculino,4,Sudeste
+198,920.164.738-78,Danilo Lopes,2,Masculino,2,Nordeste
+199,182.645.079-30,Larissa Moraes,1,Feminino,3,Norte
