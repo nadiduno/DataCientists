@@ -16,16 +16,29 @@ Apresentando meus trabalhos com as principais tecnologias do mercado:
 
 <br />
 <br />
-<iframe title="Analytech" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWYxMTVkZjUtMTI2OS00NzBmLWI1MGMtOWQ0Nzc2YzMzNzVkIiwidCI6IjE0YmU1ZTFkLTM2MGYtNDg0Ni1iNGIwLTJlNTkzNzc1NmQwZCJ9&pageName=ReportSection25fe764193a13542a9e5" frameborder="0" allowFullScreen="true"></iframe>
-</div>
+<div>
+  <img 
+    alt="Portfólio de Nadi Duno"
+    src="https://github.com/nadiduno/PortfolioNadi/blob/main/.github/ProjectNadiDuno%20.png" 
+    width="70%"
+  >
+  <br />
+
 
 ![Languages](https://img.shields.io/badge/%3C%2F%3E-languages-lightgrey)<br/>
 [MySQL](https://www.mysql.com/) | [Python](https://www.python.org/) | [PowerBI](https://app.powerbi.com/) 
 
+![Link](https://img.shields.io/badge/%3C%2F%3E-link-green)<br/>
+Documentação: https://docs.google.com/document/d/1UDhnGc827AmPJPv0X1xKK_RNCfYbZ5tpGGGXy_NJEgA/edit
+Deploy da App: https://ibp-interfase-web.vercel.app/
+GitHub: https://github.com/nadiduno/DataCientists
+
+
+
 
 <::heart:: /> © 2023
-[Jhon Cardona](https://www.linkedin.com/in/john-jairo-cardona-hern%C3%A1ndez-a5837213b) 
-[Maoly Lara](https://www.linkedin.com/in/maolylara/) 
-[Nadi Duno](https://www.linkedin.com/in/nadiduno/) 
+[Jhon Cardona](https://www.linkedin.com/in/john-jairo-cardona-hern%C3%A1ndez-a5837213b) <br/>
+[Maoly Lara](https://www.linkedin.com/in/maolylara/) <br/>
+[Nadi Duno](https://www.linkedin.com/in/nadiduno/) <br/>
 [Silvia Ruiz](https://www.linkedin.com/in/silvia-bustamante-6b4859243/) 
 
