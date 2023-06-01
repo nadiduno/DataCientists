@@ -47,8 +47,8 @@ GitHub: https://github.com/nadiduno/DataCientists
 
 <::heart:: /> © 2023
   <br />
-[Jhon Cardona](https://www.linkedin.com/in/john-jairo-cardona-hern%C3%A1ndez-a5837213b) <br/>
-[Maoly Lara](https://www.linkedin.com/in/maolylara/) <br/>
-[Nadi Duno](https://www.linkedin.com/in/nadiduno/) <br/>
-[Silvia Ruiz](https://www.linkedin.com/in/silvia-bustamante-6b4859243/) 
+[Jhon Cardona](https://www.linkedin.com/in/john-jairo-cardona-hern%C3%A1ndez-a5837213b) - Analista de dados <br/>
+[Maoly Lara](https://www.linkedin.com/in/maolylara/) - Desenvolvedor Full-Stack <br/>
+[Nadi Duno](https://www.linkedin.com/in/nadiduno/) - Cientista de dados <br/>
+[Silvia Ruiz](https://www.linkedin.com/in/silvia-bustamante-6b4859243/) - Analista de dados
 
