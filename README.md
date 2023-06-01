@@ -32,12 +32,11 @@ Fictitious data from a database of scientists from the Brazilian Institute of Re
 
 ![Link](https://img.shields.io/badge/%3C%2F%3E-link-green)<br/>
 
-[Documentação: ]([https://ibp-interfase-web.vercel.app/](https://docs.google.com/document/d/1UDhnGc827AmPJPv0X1xKK_RNCfYbZ5tpGGGXy_NJEgA/edit)  https://docs.google.com/document/d/1UDhnGc827AmPJPv0X1xKK_RNCfYbZ5tpGGGXy_NJEgA/edit
+[Documentação: ](https://docs.google.com/document/d/1UDhnGc827AmPJPv0X1xKK_RNCfYbZ5tpGGGXy_NJEgA/edit) 
 <br/>
 <br/>
-[Deploy da App: ](https://ibp-interfase-web.vercel.app/) https://ibp-interfase-web.vercel.app/  <br/>
-
-
+[Deploy da App: ](https://ibp-interfase-web.vercel.app/) 
+<br/>
 <br />
 <div>
   <img 
