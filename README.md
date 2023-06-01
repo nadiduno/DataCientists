@@ -45,7 +45,7 @@ GitHub: https://github.com/nadiduno/DataCientists
 <br />
 <br />
 
-<::heart:: /> © 2023
+<:purple_heart: /> © 2023
   <br />
 [Jhon Cardona](https://www.linkedin.com/in/john-jairo-cardona-hern%C3%A1ndez-a5837213b) - Analista de dados <br/>
 [Maoly Lara](https://www.linkedin.com/in/maolylara/) - Desenvolvedor Full-Stack <br/>
