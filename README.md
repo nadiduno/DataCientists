@@ -28,9 +28,9 @@ Fictitious data from a database of scientists from the Brazilian Institute of Re
 [MySQL](https://www.mysql.com/) | [Python](https://www.python.org/) | [PowerBI](https://app.powerbi.com/) 
 
 ![Link](https://img.shields.io/badge/%3C%2F%3E-link-green)<br/>
-Documentação: https://docs.google.com/document/d/1UDhnGc827AmPJPv0X1xKK_RNCfYbZ5tpGGGXy_NJEgA/edit
-Deploy da App: https://ibp-interfase-web.vercel.app/
-GitHub: https://github.com/nadiduno/DataCientists
+[Documentação: ](https://docs.google.com/document/d/1UDhnGc827AmPJPv0X1xKK_RNCfYbZ5tpGGGXy_NJEgA/edit)  https://docs.google.com/document/d/1UDhnGc827AmPJPv0X1xKK_RNCfYbZ5tpGGGXy_NJEgA/edit  <br/>
+[Deploy da App: ](https://ibp-interfase-web.vercel.app/)Deploy da App: https://ibp-interfase-web.vercel.app/  <br/>
+
 
 <br />
 <div>
