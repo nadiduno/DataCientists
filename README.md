@@ -21,6 +21,8 @@ Fictitious data from a database of scientists from the Brazilian Institute of Re
   >
   <br />
 <div>
+<br />
+<br />
 
 ![Languages](https://img.shields.io/badge/%3C%2F%3E-languages-lightgrey)<br/>
 [MySQL](https://www.mysql.com/) | [Python](https://www.python.org/) | [PowerBI](https://app.powerbi.com/) 
@@ -40,6 +42,8 @@ GitHub: https://github.com/nadiduno/DataCientists
   <br />
 <div>
 
+<br />
+<br />
 
 <::heart:: /> © 2023
   <br />
